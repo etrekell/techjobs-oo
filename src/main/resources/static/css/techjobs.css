@@ -2,6 +2,10 @@
     margin-top: 72px;
 }
 
+select {
+    width: 25em
+}
+
 td, th {
     padding: 10px;
 }
@@ -26,6 +30,7 @@ table.job-listing td:last-child {
 
 label {
     margin-right: 15px;
+    margin-bottom: 15px;
 }
 
 ul.form-group {
